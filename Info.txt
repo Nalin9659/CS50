@@ -1,0 +1,42 @@
+ 
+  free codespace for the cs50 : cs50.code.io
+
+  Gui shortcuts: 
+
+  ls =for list
+  cp =for cpoy text one file to another file
+  mv =move a file
+  rm = remove file
+  mkdir =make directory file or folder
+  cd  = change the directory
+  rmdir =
+  clear = clear the terminal.
+
+
+// problem 0
+
+2. Some people have a habit of lecturing speaking rather quickly, and it’d be nice to slow them down, 
+  a la YouTube’s 0.75 playback speed, or even by having them pause between words.
+
+3.  implement a function called convert that accepts a str as input and returns that same input with any :) converted to 🙂 (otherwise known as a slightly smiling face) 
+and any :( converted to 🙁 (otherwise known as a slightly frowning face). All other text should be returned
+unchanged.
+
+ In a file called playback.py, implement a program in Python that prompts the user for input and 
+ then outputs that same input, replacing each space with ... (i.e., three periods).
+
+ 4. In a file called einstein.py, implement a program in Python that prompts the user for mass as an
+  integer (in kilograms) and then outputs the equivalent number of Joules as an integer. 
+  Assume that the user will input an integer
+
+  // problem 1
+
+  1. implement a program that prompts the user for the answer to the Great Question of Life, 
+  the Universe and Everything, outputting Yes if the user inputs 42 or (case-insensitively) forty-two or forty two. 
+  Otherwise output No.
+
+ 2. In a file called bank.py, implement a program that prompts the user for a greeting. If the greeting starts
+    with “hello”, output $0. If the greeting starts with an “h” (but not “hello”), output $20. Otherwise, 
+    output $100. Ignore any leading whitespace in the user’s greeting, and treat the user’s greeting case-insensitively.
+
+
